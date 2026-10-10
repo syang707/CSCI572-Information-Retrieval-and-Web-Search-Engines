@@ -1,0 +1,2 @@
+Summary: In this homework, you will compare search results for 100 queries, using Google, and a non-Google engine [Ask Jeeves, Bing, DuckDuckGo, or Yahoo; and in the near future, AI-based search engines from OpenAI, Perplexity... they produce summaries but do (should!) display ranked links somewhere].
+Overall, there are two tasks: parse search engines' outputs (eg. Google's, Bing's) of your queries; use the two sets of parsed results (which would be links) to compute correlation between the Google and non-Google engines.
